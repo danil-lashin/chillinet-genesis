@@ -1,6 +1,6 @@
 {
   "genesis_time": "1970-01-01T00:00:01Z",
-  "chain_id": "minter-1-2-testnet-10",
+  "chain_id": "minter-1-2-testnet-11",
   "consensus_params": {
     "block": {
       "max_bytes": "10000000",
